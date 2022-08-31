@@ -10,7 +10,7 @@ export class MenuComponent implements OnInit {
 
   constructor() {
     this.menuItems = [
-      { name: 'Vježbaonica', link: '/pocetna', icon: 'dx-icon-bulletlist' },
+      { name: 'Postavke', link: '/pocetna', icon: 'dx-icon-bulletlist' },
     ];
   }
 
