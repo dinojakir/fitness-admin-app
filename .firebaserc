@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fitness-admin-app"
-  }
+    "default": "fitness-admin-app",
+    "fitness-admin-app": "fitness-admin-app"
+  },
+  "targets": {},
+  "etags": {}
 }
