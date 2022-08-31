@@ -1,0 +1,8 @@
+<div class="menu">
+  <div class="separator"></div>
+  <div *ngFor="let menuItem of menuItems" class="menu-item">
+    <div class="menu-item-text">
+      <span>{{ menuItem.name | uppercase }}</span>
+    </div>
+  </div>
+</div>
